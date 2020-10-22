@@ -13,7 +13,7 @@ bash run_all.sh
 ```
 
 ## Notes
-* Each directory is the modification of Leaf repository FedAvg implementation https://github.com/TalwalkarLab/leaf
+* Each directory is implementation based on Leaf repository FedAvg implementation https://github.com/TalwalkarLab/leaf
 * GPU is used.
 
 ## TODO
