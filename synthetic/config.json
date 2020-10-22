@@ -1,0 +1,17 @@
+{
+    "m" : 100,
+    "p" : 2,
+
+    "n" : 100,
+    "d" : 1000,
+
+    "r" : 1.0,
+
+    "noise_scale": 0.001,
+
+    "num_epochs": 300,
+    "score":"set",
+    "lr":0.1,
+    "data_seed":0,
+    "train_seed":0
+}

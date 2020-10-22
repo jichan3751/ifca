@@ -1,0 +1,17 @@
+{
+    "m" : 2400,
+    "m_test" : 400,
+    "p" : 4,
+    "n" : 100,
+
+    "h1": 200,
+
+    "num_epochs": 300,
+
+    "batch_size":100,
+    "tau":10,
+    "lr":0.1,
+
+    "data_seed":0,
+    "train_seed":0
+}

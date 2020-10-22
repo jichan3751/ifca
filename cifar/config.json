@@ -1,0 +1,17 @@
+{
+    "m" : 200,
+    "m_test" : 40,
+    "p" : 2,
+    "n" : 500,
+
+    "participation_rate":0.1,
+
+    "num_epochs": 600,
+
+    "batch_size":50,
+    "tau":5,
+    "lr":0.25,
+
+    "data_seed":0,
+    "train_seed":0
+}
